@@ -1,5 +1,6 @@
-### Hi there 👋
 
+- 🌱  I like solving problem and learn new stuff using JavaScript.
+- 🔭  I'm Currently focusing on building various web application using MERN stack. 
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
