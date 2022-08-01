@@ -1,6 +1,6 @@
 
-- 🌱  I like solving problem and build new stuff using JavaScript.
-- 🔭  I'm Currently focusing on building various web application using MERN stack. 
+- 🌱  I like solving problems and build new stuff using JavaScript.
+- 🔭  Currently focusing on building modern web application using MERN stack. 
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
