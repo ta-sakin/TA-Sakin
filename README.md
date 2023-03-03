@@ -1,6 +1,6 @@
-
-- 🌱  I like solving problems and build new stuff using JavaScript.
+- 🌊  I'm like water, throw any tech stack at me I'll adjust.
 - 🔭  Currently focusing on building modern web application using MERN stack. 
+- 📫  [LinkedIn](https://www.linkedin.com/in/ta-sakin).
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
