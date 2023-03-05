@@ -1,4 +1,4 @@
-- 🌊  I'm like water, throw any tech stack at me I'll adjust.
+- 🌊  Water spirited, adjust to any stack.
 - 🔭  Currently focusing on building modern web application using MERN stack. 
 - 📫  [LinkedIn](https://www.linkedin.com/in/ta-sakin).
 <!--
