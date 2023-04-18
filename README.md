@@ -1,5 +1,4 @@
-- 🌊  Water spirited, adjust to any stack.
-- 🔭  Currently focusing on building modern web application using MERN stack. 
+- 🔭  Currently focusing on building modern web application using React, Nodejs stack.
 - 📫  [LinkedIn](https://www.linkedin.com/in/ta-sakin).
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
