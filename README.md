@@ -1,4 +1,4 @@
-- 🔭  Currently focusing on building modern web application using React, Nodejs stack.
+- 🔭  Currently focusing on building modern web application using React, Nodejs.
 - 📫  [LinkedIn](https://www.linkedin.com/in/ta-sakin).
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
