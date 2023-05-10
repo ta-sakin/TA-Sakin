@@ -1,4 +1,4 @@
-- 🔭  Software Developer, currently focusing on building modern web application using React, Nodejs.
+- 🔭  Software Developer, currently focusing on developing modern web application using Typescript, React and Nodejs.
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
