@@ -1,4 +1,5 @@
-- 🔭  Software Developer, currently focusing on delivering top-notch cross-platform applications using React, React Native, Nodejs, and Flask.
+- 🔭  Software Engineer, currently focusing on transforming ideas into scalable cross-platform applications. Specializing in TypeScript, React, NodeJS, Python, Flask, PostgreSQL and full-stack development.
+
 <!--
 **TA-Sakin/TA-Sakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
